@@ -1,1 +1,1 @@
-# crop_prediction_MVP
+# An archive for the web interface with ml part integrated.
